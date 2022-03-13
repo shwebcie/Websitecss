@@ -20,6 +20,9 @@ table {
     color: #ddd;
     line-height: 1.5;
   }
+  a{
+    color:gold;
+  }
 
   table td,
   table th {
