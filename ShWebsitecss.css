@@ -36,6 +36,10 @@ td:nth-child(3){
     color:#d64230;
   }
 
+  ::-webkit-scrollbar {
+    display: none;
+}
+
   table td,
   table th {
     text-align: left;
